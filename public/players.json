@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "username": "Bret",
+            "points": 23
+        },
+        {
+            "username": "Antonette",
+            "points": 18
+        },
+        {
+            "username": "Samantha",
+            "points": 33
+        },
+        {
+            "username": "Karianne",
+            "points": 66
+        },
+        {
+            "username": "Geralt",
+            "points": 101
+        },
+        {
+            "username": "Letho",
+            "points": 65
+        },
+        {
+            "username": "Berserker",
+            "points": 46
+        },
+        {
+            "username": "Eskel",
+            "points": 2
+        },
+        {
+            "username": "Vesemir",
+            "points": 13
+        },
+        {
+            "username": "pashaBiceps",
+            "points": 120
+        }
+    ]
+}

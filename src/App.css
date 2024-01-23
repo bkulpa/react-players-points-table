@@ -1,0 +1,28 @@
+table,
+th,
+td {
+  border: 1px solid;
+  text-align: left;
+}
+
+.points {
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.button {
+  margin-right: 10px;
+}
+
+.button__container {
+  margin-bottom: 30px;
+}
